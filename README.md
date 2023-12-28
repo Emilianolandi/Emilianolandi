@@ -2,15 +2,13 @@
 
  <!---------------------------------bienvenida---------------------------------------------------------------------------------------------------->
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bastndev&bg_color=0d1117&color=ffffff&line=00b3ff&point=f9fafa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<!---------------------------------estadistica---------------------------------------------------------------------------------------------------->
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Emilianolandi&bg_color=0d1117&color=ffffff&line=00b3ff&point=f9fafa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=bastndev&show_icons=true&count_private=true&hide_border=true&title_color=02D9F7FF&icon_color=02D9F7FF&text_color=c9d1d9&bg_color=0d1117" alt="Bastian Dev github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Emilianolandi&show_icons=true&count_private=true&hide_border=true&title_color=#B89B11&icon_color=#B89B11&text_color=c9d1d9&bg_color=0d1117" alt="Emiliano Landi github stats" /> 
   
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bastndev&layout=compact&hide_border=true&title_color=02D9F7FF&text_color=02D9F7FF&bg_color=0d1117" />
-</div> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emilianolandi&layout=compact&hide_border=true&title_color=#B89B11&text_color=#B89B11&bg_color=0d1117" />
+</div>
 
 <!---------------------------------tecnologia---------------------------------------------------------------------------------------------------->
 
@@ -82,3 +80,15 @@ graph TD;
     }
   ]
 }
+ ```
+
+<!--------------------------------------Coordenadas----------------------------------------------->
+ 
+
+<div align="center">
+<br><p align="centre"><b>Visitors Count 👽 </b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{SmurFdev51}/count.svg" /></p> 
+<br>
+</div>
+
+<!-----------------------------------Contador----------------------------------------------- >
